@@ -6,6 +6,7 @@
 [Darknet Diaries](https://darknetdiaries.com)は、サイバーセキュリティやハッキングの実話を取り上げ、多くの専門家やゲストを招いて事件の深層等について語るポッドキャストです。
 - このプロジェクトでは、Darknet Diariesの各エピソードを日本語化し、公開することで初心者にとって過去の事例を学ぶ事が出来るの教育リソースを提供することを目的としています、恐らく頻繁な更新は出来ないですが、よろしくおねがいします。
 
-翻訳時にあったら便利なもの(PRをこれから送ってくれるであろう人達ために):<br>
-[iamthefrogy/DarknetDiariesTranscriptDownloader](https://github.com/iamthefrogy/DarknetDiariesTranscriptDownloader)<br>
-GPT-4o(API version)
+> [!NOTE]
+> 翻訳時にあったら便利なもの(PRをこれから送ってくれるであろう人達ために):<br>
+> [iamthefrogy/DarknetDiariesTranscriptDownloader](https://github.com/iamthefrogy/DarknetDiariesTranscriptDownloader)<br>
+> GPT-4o(API version)
